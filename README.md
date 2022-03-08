@@ -1,1 +1,1 @@
-This file contains my codes and output for the HAMOYE Internship stage C Assessment 
+This file contains my codes and output for the HAMOYE Internship stage C Assessment. 
